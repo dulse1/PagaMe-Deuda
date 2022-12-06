@@ -11,7 +11,7 @@ public class Deuda_Pagame {
         
         deuda1.setDomicilio("Calle Zaragoza, #304");
         System.out.print("Direccion: "+deuda1.GetDomicilio());
-    
+        
         
         deuda1.setFolio("196742");
         System.out.print("Folio: "+deuda1.GetFolio());
